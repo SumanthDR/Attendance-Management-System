@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMgmtSystem", "QuizMgmtSystem\ATMgmtSystem.csproj", "{E34FA56E-63CC-40AF-A0AB-6D4A9896D85E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{34119A4C-B897-419A-B8F1-31B4BB911F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34FA56E-63CC-40AF-A0AB-6D4A9896D85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34FA56E-63CC-40AF-A0AB-6D4A9896D85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34FA56E-63CC-40AF-A0AB-6D4A9896D85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34FA56E-63CC-40AF-A0AB-6D4A9896D85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34119A4C-B897-419A-B8F1-31B4BB911F76}.Debug|Any CPU.ActiveCfg = Debug
+		{34119A4C-B897-419A-B8F1-31B4BB911F76}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A471B5B2-BC77-4C1F-84C8-13C28FAE1072}
+	EndGlobalSection
+EndGlobal
